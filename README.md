@@ -1,0 +1,2 @@
+# haberlesme
+pyModbus calismalari
