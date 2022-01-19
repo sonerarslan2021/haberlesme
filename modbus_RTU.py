@@ -1,5 +1,6 @@
 """
 https://www.youtube.com/watch?v=4RQT2u9dGHg&list=PLSfpgHCbcgxrzhuPfZIM-0ULU7HQxOCEd&index=6
+https://github.com/eaglebjkbv/PythonExamples
 https://github.com/eaglebjkbv/PythonExamples/blob/master/ModbusPythonQt/main.py
 """
 
